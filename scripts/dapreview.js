@@ -1,4 +1,4 @@
-import loadPage from './scripts.js';
+import { loadPage } from './scripts.js';
 
 (function daPreview() {
   let port2;
