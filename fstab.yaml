@@ -2,4 +2,3 @@ mountpoints:
   /:
     url: https://content.da.live/auniverseaway/da-aem-boilerplate/
     type: markup
-        
