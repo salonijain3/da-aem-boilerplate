@@ -1,4 +1,4 @@
 mountpoints:
   /:
-    url: https://content.da.live/adobecom/da-aem-boilerplate/
+    url: https://content.da.live/salonijain3/da-aem-boilerplate/
     type: markup
